@@ -1,4 +1,4 @@
-# carrito-de-compras
-Carrito de compras sencillo el cual lo fui realizando a medida que cursaba Java Script
+# Shopping cart
+Simple shopping cart which I was doing as I was studying Java Script
 <br>
 Link of page: https://eliasst43.github.io/carrito-de-compras/
